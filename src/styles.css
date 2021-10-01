@@ -1,5 +1,5 @@
 body {
-  background-color: #d4d5ca;
+  background-color: #e8e8e1;
 }
 
 h1,
@@ -16,9 +16,10 @@ p {
 }
 
 img {
-  max-width: 200px;
+  max-width: 25%;
   display: block;
   margin: 30px auto;
+  border-radius: 10px;
 }
 
 footer {
