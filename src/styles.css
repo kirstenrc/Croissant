@@ -1,0 +1,32 @@
+body {
+  background-color: #d4d5ca;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  color: #d3ab34;
+}
+
+p {
+  color: #454c4d;
+}
+
+img {
+  max-width: 200px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+
+a {
+  margin: 0 10px;
+  color: teal;
+}
